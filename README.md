@@ -16,8 +16,8 @@ Downloads (Resume / Portfolio) work best on a local server or after deploy — n
 
 Repo: [Krixna-Kant/portfolio](https://github.com/Krixna-Kant/portfolio)
 
-1. Push to `main`.
-2. Repo **Settings → Pages → Build and deployment** → Source: **Deploy from a branch** → `main` / `/ (root)` → Save.
-3. Live site: https://krixna-kant.github.io/portfolio/
+1. Open [Settings → Pages](https://github.com/Krixna-Kant/portfolio/settings/pages).
+2. Under **Build and deployment → Source**, choose **GitHub Actions** → Save.
+3. Re-run the failed workflow (or push to `main`). Live site: https://krixna-kant.github.io/portfolio/
 
 Later edits (email, resume link, copy) go in `js/content.js`. Push `main` again and Pages updates in a minute or two.
