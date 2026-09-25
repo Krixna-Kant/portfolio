@@ -40,8 +40,8 @@
           <a class="icon-btn p-3 rounded-full hover:bg-white/10 transition-all flex items-center justify-center text-white" href="mailto:${site.links.email}" aria-label="Email">
             ${icon("mail", "text-[20px]")}
           </a>` : ""}
-          ${site.resumeView ? `
-          <a class="icon-btn px-6 py-3 rounded-full hover:bg-white/10 transition-all flex items-center gap-2 text-white" href="${site.resumeView}" target="_blank" rel="noopener noreferrer">
+          ${site.resumeHero ? `
+          <a class="icon-btn px-6 py-3 rounded-full hover:bg-white/10 transition-all flex items-center gap-2 text-white" href="${site.resumeHero}" target="_blank" rel="noopener noreferrer">
             ${icon("description")}
             <span class="font-label-sm text-label-sm">Resume</span>
           </a>` : ""}

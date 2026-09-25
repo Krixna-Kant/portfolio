@@ -10,8 +10,9 @@ window.SITE = {
   headline: "I build things that solve real problems.",
   subhead: "AI/ML Engineer · Full-stack builder · Agent systems · Researcher · Explorer",
   avatar: "https://avatars.githubusercontent.com/u/174959155?v=4",
-  resumeView: "https://drive.google.com/file/d/1raukZqDprmAOrl2zKknZYJTlN6BPOrod/view?usp=drive_link",
-  resumeDownload: "https://drive.google.com/uc?export=download&id=1raukZqDprmAOrl2zKknZYJTlN6BPOrod",
+  resumeHero: "https://drive.google.com/file/d/1RU98W1P6Ae_RMBrCNk1jtG3DwUoTes_D/view?usp=sharing",
+  resumeView: "https://drive.google.com/file/d/1G941cMa_e-PEtaHr18qr1Sbb8KtmHqPY/view?usp=sharing",
+  resumeDownload: "https://drive.google.com/uc?export=download&id=1G941cMa_e-PEtaHr18qr1Sbb8KtmHqPY",
   resumeFile: "assets/resume.pdf",
   files: {
     resume: "Krishna-Kant-Resume.pdf",
@@ -93,7 +94,7 @@ window.SITE = {
     {
       company: "Infoset Ltd",
       role: "ML Engineer Intern",
-      dates: "Feb 2026 — Aug 2026",
+      dates: "Feb 2026 — Sept 2026",
       badge: "Remote · Athens, Greece",
       mark: "IS",
       logo: "assets/logos/infoset.png",
